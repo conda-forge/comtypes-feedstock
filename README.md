@@ -20,14 +20,16 @@ C++-code.
 Current build status
 ====================
 
-Linux: ![](https://cdn.rawgit.com/conda-forge/conda-smithy/90845bba35bec53edac7a16638aa4d77217a3713/conda_smithy/static/disabled.svg)
-OSX: ![](https://cdn.rawgit.com/conda-forge/conda-smithy/90845bba35bec53edac7a16638aa4d77217a3713/conda_smithy/static/disabled.svg)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/comtypes-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/comtypes-feedstock/branch/master)
+[![Windows](https://img.shields.io/appveyor/ci/conda-forge/comtypes-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/comtypes-feedstock/branch/master)
+![Linux disabled](https://img.shields.io/badge/linux-disabled-lightgrey.svg)
+![OSX disabled](https://img.shields.io/badge/OSX-disabled-lightgrey.svg)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/comtypes/badges/version.svg)](https://anaconda.org/conda-forge/comtypes)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/comtypes/badges/downloads.svg)](https://anaconda.org/conda-forge/comtypes)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-comtypes-green.svg)](https://anaconda.org/conda-forge/comtypes) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/comtypes.svg)](https://anaconda.org/conda-forge/comtypes) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/comtypes.svg)](https://anaconda.org/conda-forge/comtypes) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/comtypes.svg)](https://anaconda.org/conda-forge/comtypes) |
 
 Installing comtypes
 ===================
