@@ -1,6 +1,6 @@
 {% set name = "comtypes" %}
-{% set version = "1.1.11" %}
-{% set sha256 = "3ad1e187a6d2bb602028920f71ba4327f744c312ce1267d9c104f008ba90eab5" %}
+{% set version = "1.1.12" %}
+{% set sha256 = "d3976d5610ca87299ac6a9595e412e12d14806d77dc12cd7c9bf72206256cf34" %}
 
 package:
   name: {{ name|lower }}
