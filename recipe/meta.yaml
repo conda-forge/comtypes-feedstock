@@ -1,6 +1,6 @@
 {% set name = "comtypes" %}
-{% set version = "1.1.14" %}
-{% set sha256 = "dc8a8819b1fb75630bea279e184d2270b41c9120d656813441dfc7253ecf6c91" %}
+{% set version = "1.2.0" %}
+{% set sha256 = "e13af9deadddffdf0a41513c5fae1b3757d597e8806e057e517b6d8015220c7d" %}
 
 package:
   name: {{ name|lower }}
@@ -12,7 +12,7 @@ source:
   sha256: {{ sha256 }}
 
 build:
-  number: 1
+  number: 0
   skip: true  # [not win]
   script: python setup.py install --single-version-externally-managed --record record.txt
 
